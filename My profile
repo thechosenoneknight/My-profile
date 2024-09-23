@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My profile</title>
+    <style>
+            h1{
+                color:black;
+                text-align:center;
+            }
+            body{
+                background-color:rgb(141, 141, 175);
+            }
+            a{
+                color: black;
+            }
+            h3.round1{
+                background:gray;
+                font:white;
+                border: 3px solid white;
+                border-radius:6px;
+            }
+            h3.normal1{
+                background-color: rgb(137, 103, 103);
+                font:white;
+                border:3px solid white;
+            }
+            blockquote{
+                font-size: large;
+            }
+            }
+    </style>
+</head>
+<body>
+    <h1>My profile</h1>
+    <div style="text-align:center" bgcolor="black">
+    <img src="image.desktop/WechatIMG9766 1.jpg" width="200" height="250"><div>
+        </div>
+        <a href="#Country">About Country</a>
+        <a href="#Me">About me</a>
+        <a href="#Self">Self-assessment</a>
+        <h2>About Country</h2>
+        <h3 class="round1"><bold>I come from China, in China, there are many delicious food in there.</bold></h3>
+        </ br>
+        <h3 class="round1">There is the great wall in China, I believe that everyone know it</h3>
+        </ br>
+        <h3 class="round1">In China, everyone is collectivist</h3>
+        <h2>About me</h2>
+        <h3 class="normal1">I am 19 years old, I used to study at henan ecnomy and low campus</h3>
+        </ br>
+        <h3 class="normal1">I like playing basketball and listening to hippop music</h3>
+        </ br>
+        <h3 class="normal1">When I passed my IELTS test, I came Irland to further learn some professional knowledge</h3>
+        </ br>
+        <h2>Self-assessment</h2>
+        <blockquote style="background-color: white;"><bold>
+            I do not think I'll be much of anything, but now that I'm in Irland and I'm ready to take on the challenge.
+            If I miss some knowledge, I'll make up for it as soon as possible.
+
+            </bold>
+        </blockquote>
+</body>
+</html>
